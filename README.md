@@ -26,5 +26,5 @@ it all in just a few days and properly implement it at the level that was expect
 ##### Did you encounter any problems in this assignment we should warn students about in the future? How can we make the assignment better? #####
 > No linux. Maybe also consider not doing it in typescript. I understand the exposure is important, but the full transition was abrupt, and I have not actually learned anything. In the future,
 to mitigate this since typescript isn't going anywhere, entertain more assignments inbetween to allow students to learn typescript in less exponential leaps. The workload was not the issue at all, 
-and more assignments is not unreasaonable. 
+and more assignments is not unreasaonable.  
 

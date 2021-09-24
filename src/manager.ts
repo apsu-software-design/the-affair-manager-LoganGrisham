@@ -26,7 +26,7 @@ export class AffairManager {
         var mem = new Member(name, email)
         this._members.push(mem)
     }
-    public addAffair(name: string, location: string, date: string) { //Also works! 
+    public addAffair(name: string, location: string, date: string) { //Also works!  
         var aff = new Affair(name, location, date)
         this._affairs.push(aff)
     }
