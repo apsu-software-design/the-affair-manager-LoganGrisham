@@ -20,7 +20,7 @@ function showMainMenu(em:AffairManager) {
     console.log(`Welcome to the Affair Manager! Pick an option:
   1. Register a new member
   2. Register a new affair
-  3. Register a new organization
+  3. Register a new organization 
   4. Add a member to an affair
   5. Modify an affair
   6. Add an affair to an organization
